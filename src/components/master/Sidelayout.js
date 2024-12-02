@@ -77,7 +77,7 @@ function Sidelayout() {
 
             {/* Landing Page */}
             <li>
-              <Link to="/landing_page" className="waves-effect">
+              <Link to="/landing-page-selector" className="waves-effect">
                 <i className="mdi mdi-web" /> {/* Web/Landing Page icon */}
                 <span>Landing Page</span>
               </Link>

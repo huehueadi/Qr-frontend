@@ -28,7 +28,7 @@ function SlotList() {
     } else if (filterQrId) {
       return slot.qrId === filterQrId;
     }
-    return true; // Return all slots if no filter is applied
+    return true; 
   });
 
   return (
